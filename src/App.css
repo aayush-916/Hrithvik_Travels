@@ -56,11 +56,12 @@ h3.title-txt span {
     margin-bottom: 1.5rem;
     font-size: 0.7rem;
     padding: 4.5px;
+    z-index: 10;
   }
 
   .img_size {
     width: 100vw;  /* Full width of the viewport */
-    height: 150px;  /* Maintain aspect ratio */
+    height: 200px;  /* Maintain aspect ratio */
   }
   .size{
     width: 15rem;

@@ -11,7 +11,7 @@ function Nav() {
             {/* Call Icon (Green) */}
             <i className="fa fa-phone tw-text-green-500" aria-hidden="true"></i>
             <span className="tw-text-white">
-              <a href="tel:09911332333">+91 7870139953</a>
+              <a href="tel:7870139953">+91 7870139953</a>
             </span>
           </div>
 
