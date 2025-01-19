@@ -50,8 +50,8 @@ function Home() {
               alt="First slide"
             />
             <div className="carousel-caption  d-md-block">
-            <p  className='btn btn-info  mb' data-bs-toggle="modal" data-bs-target="#staticBackdrop">📞Call Now</p>
-      </div>
+            <a href="tel:7870139953" className='btn btn-info mb' >📞 Call Now</a>
+          </div>
           </div>
           
 
